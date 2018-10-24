@@ -1,0 +1,7 @@
+/* Ajax system */
+function AjaxTextChangeUnit(){
+	
+}
+
+
+
